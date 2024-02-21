@@ -8,6 +8,7 @@
 ## Need to remember
 - [ ] [Linux directories](https://www.baeldung.com/linux/differences-bin-sbin-usr-local)
 - [ ] [Numbers Everyone Should Know](https://brenocon.com/dean_perf.html)
+
 ## Linux
 
 - [ ] [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
@@ -70,6 +71,7 @@
 - [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
 - [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
 - [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
+- [ ] [Demystifying Containers](https://github.com/saschagrunert/demystifying-containers)
 
 ## Kubernetes
 
