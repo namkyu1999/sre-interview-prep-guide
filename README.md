@@ -1,17 +1,13 @@
-# Site Reliability Engineer (SRE) Interview Preparation Guide
-
-This repository is an attempt to consolidate useful resources for Site Reliability Engineer (SRE) interview preparation.
-
-## Contributing
-
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-Contributions are always welcome!
+# Site Reliability Engineer (SRE) Interview Preparation
 
 ## Basics
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
+## Need to remember
+- [ ] [Linux directories](https://www.baeldung.com/linux/differences-bin-sbin-usr-local)
+- [ ] [Numbers Everyone Should Know](https://brenocon.com/dean_perf.html)
 ## Linux
 
 - [ ] [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
