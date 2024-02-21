@@ -126,27 +126,6 @@ Contributions are always welcome!
 
 ## Programming
 
-### Python
-
-- [ ] [Python Basics](https://pythonbasics.org/)
-- [ ] [Python For Everyone](https://www.py4e.com/)
-- [ ] [Complete Python Tutorial](https://www.scaler.com/topics/python/)
-
-### Go (Golang)
-
-- [ ] [A tour of Go](https://tour.golang.org)
-- [ ] [Go by Example](https://gobyexample.com)
-- [ ] [Go Tutorials & Examples](https://gosamples.dev)
-- [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [ ] [Getting up and running with Go](http://www.golangprograms.com)
-- [ ] [Effective Go](https://golang.org/doc/effective_go.html)
-- [ ] [Go Design Patterns](https://github.com/tmrts/go-patterns)
-- [ ] [Go Memory Management](https://povilasv.me/go-memory-management)
-- [ ] [Style Guide](https://google.github.io/styleguide/go/guide)
-- [ ] [Style Decisions](https://google.github.io/styleguide/go/decisions)
-- [ ] [Best Practices](https://google.github.io/styleguide/go/best-practices)
-- [ ] [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang)
-
 ### Big O Notation, Algorithms and Data Structures
 
 - [ ] [AlgoExpert](https://www.algoexpert.io)
@@ -177,6 +156,9 @@ Contributions are always welcome!
 - [ ] [Designing Instagram](http://highscalability.com/blog/2022/1/11/designing-instagram.html)
 - [ ] [Designing Netflix](http://highscalability.com/blog/2021/12/13/designing-netflix.html)
 
+## o11y
+- [ ] [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나!](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster)
+- [ ] [Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 ## Monitoring
 
 - [ ] [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives)
@@ -224,7 +206,6 @@ Contributions are always welcome!
 
 ### SRE interview process
 
-- [ ] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
 - [ ] [Recruitment process for a Google job (SRE, Site Reliability Engineer)](https://web.archive.org/web/20220328124724/http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer)
 
 ### Interview Questions
