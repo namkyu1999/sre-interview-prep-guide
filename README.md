@@ -257,3 +257,5 @@
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
+## ETC
+- [ ] [Kubernetes의 CPU Limit, 리눅스의 CFS 스케줄러, 그리고 Go언어의 GOMAXPROCS](https://www.ardanlabs.com/blog/2024/02/kubernetes-cpu-limits-go.html)
