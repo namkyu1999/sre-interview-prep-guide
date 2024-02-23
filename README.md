@@ -254,6 +254,10 @@
 - [ ] [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
 - [ ] [Systems Performance, 2nd Edition](https://www.informit.com/store/systems-performance-9780136820154?ranMID=24808)
 
+### o11y
+
+- [ ] [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+
 ## Courses
 
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
