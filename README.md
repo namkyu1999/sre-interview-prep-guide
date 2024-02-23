@@ -229,6 +229,10 @@
 - [ ] [Become A DevOps Engineer in 2023: [Detailed Guide]](https://devopscube.com/become-devops-engineer)
 - [ ] [How to Get an SRE Role](https://certomodo.substack.com/p/how-to-get-an-sre-role)
 
+### Blog
+
+- [ ] [What every SRE should know about file descriptors, pipes, terminals, user sessions, process groups and daemons](https://biriukov.dev/)
+
 ## Books
 
 ### SRE books
