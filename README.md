@@ -269,3 +269,4 @@
 
 ## ETC
 - [ ] [Kubernetes의 CPU Limit, 리눅스의 CFS 스케줄러, 그리고 Go언어의 GOMAXPROCS](https://www.ardanlabs.com/blog/2024/02/kubernetes-cpu-limits-go.html)
+- [ ] [Kafka internals](https://www.confluent.io/blog/apache-kafka-architecture-and-internals-by-jun-rao/)
