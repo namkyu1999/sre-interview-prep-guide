@@ -261,6 +261,7 @@
 ### o11y
 
 - [ ] [Observability Engineering](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- [ ] [golang o11y](https://d2.naver.com/helloworld/8404108)
 
 ## Courses
 
