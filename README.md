@@ -269,5 +269,6 @@
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
 ## ETC
-- [ ] [Kubernetes의 CPU Limit, 리눅스의 CFS 스케줄러, 그리고 Go언어의 GOMAXPROCS](https://www.ardanlabs.com/blog/2024/02/kubernetes-cpu-limits-go.html)
+- [ ] [Go 언어의 GOMAXPROCS 이용시 주의사항](https://www.p99conf.io/session/running-a-go-app-in-kubernetes-cpu-impacts/)
 - [ ] [Kafka internals](https://www.confluent.io/blog/apache-kafka-architecture-and-internals-by-jun-rao/)
+- [ ] [Thread 비용](https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/)
