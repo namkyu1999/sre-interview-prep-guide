@@ -65,6 +65,7 @@
 - [ ] [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 - [ ] [Load Balancing Algorithms](https://syedali.net/2013/08/22/load-balancing-algorithms)
 - [ ] [fundamental series](https://www.youtube.com/playlist?list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1)
+- [ ] [vpc](https://github.com/namkyu1999/sre-interview-prep-guide/blob/master/README.md)
 
 ## Containers
 
