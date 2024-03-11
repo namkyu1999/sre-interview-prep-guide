@@ -276,8 +276,9 @@
 - [ ] [Kafka internals](https://www.confluent.io/blog/apache-kafka-architecture-and-internals-by-jun-rao/)
 - [ ] [Thread 비용](https://eli.thegreenplace.net/2018/measuring-context-switching-and-memory-overheads-for-linux-threads/)
 - [ ] [좋은 블로그 1](https://www.morling.dev/blog/)
-- [ ] 
 
 ## Should Remember
-- CFS scheduler
-- B Tree
+- [] [CFS scheduler](https://docs.kernel.org/scheduler/sched-design-CFS.html)
+- [] [B Tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/)
+- [] [longest common prefix]()
+- [] [string matching]()
