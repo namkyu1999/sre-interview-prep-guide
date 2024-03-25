@@ -282,3 +282,8 @@
 - [ ] [B Tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/)
 - [ ] [longest common prefix]()
 - [ ] [string matching]()
+
+## 중복 방지 기술
+- [ ] [idempotency](https://stripe.com/blog/idempotency)
+- [ ] [실예제](https://blog.wadiz.kr/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD-%EC%86%8D%EC%97%90%EC%84%9C-%EB%94%B0%EB%8B%A5%EC%9D%84-%EC%99%B8%EC%B9%98%EB%8B%A4/)
+- [ ] [실예제2](https://helloworld.kurly.com/blog/distributed-redisson-lock/)
